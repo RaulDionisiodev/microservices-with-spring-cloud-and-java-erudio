@@ -15,3 +15,7 @@ spring:
         dialect: org.hibernate.dialect.MySQLDialect
     show-sql: false
     open-in-view: false
+
+  logging:
+    level:
+      com.github.rauldionisiodev: INFO
